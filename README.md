@@ -19,3 +19,6 @@ This repository contains a collection of projects completed as part of the IBM D
 4. **Statistical Analysis**
    - **Description:** Projects involving statistical techniques to analyze data and draw conclusions. Includes hypothesis testing, regression analysis, and more.
    - **Tools:** Python, SciPy, Statsmodels, Excel
+
+
+IBM Cognos Dashboard: ![https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fbest%2Bdashboard&action=view&mode=dashboard&subView=model0000019123343e7a_00000000]
